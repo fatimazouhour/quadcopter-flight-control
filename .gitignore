@@ -16,3 +16,6 @@ desktop.ini
 
 #vscode
 .vscode/
+
+#ignore for now, i am taking videos of simulations to document my processes
+*.mp4
