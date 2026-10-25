@@ -1,0 +1,8 @@
+*.slx  binary
+*.sldd binary
+*.mat binary
+*.mlx binary
+*.step binary
+*.png binary
+*.m text diff
+*.md text

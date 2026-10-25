@@ -1,0 +1,18 @@
+#simulink and matlab generated 
+
+*.slxc
+*.asv
+*.autosave
+
+
+.matlab/
+SimulinkCache/
+slprj/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+#vscode
+.vscode/
